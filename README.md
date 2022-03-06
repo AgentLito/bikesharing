@@ -40,6 +40,7 @@ Results
 
 This is the first page of the story which is dashboard, and it contains basic information about the data set. It gives details of the dataset to understand what kind of data we will be dealing with in the further analysis.
 
+![Basic_Information](https://user-images.githubusercontent.com/91812090/156933704-71aa43d5-5e1c-485f-99ce-598eed979c6b.png)
 
 
 The page contains the following information:
@@ -49,6 +50,7 @@ Number of the total rides: 2,344,224.
 Customer type: subscribers and customers.
 Peak hours, divided by gender which shows the user behavior.
 2. Checkout Times for Users
+![Checkout_times_of_Users](https://user-images.githubusercontent.com/91812090/156933757-e3126ff9-17c2-498e-bff4-aa8ef213b632.png)
 
 
 
@@ -56,6 +58,7 @@ This visualization shows the length of time for every bike ride during the month
 It shows that riders typically like to ride bike between 2 and 15 minutes.
 3. Check Out Time by Gender
 
+![Checkout_times_By_Gender](https://user-images.githubusercontent.com/91812090/156933796-55b1d39f-1027-4fa3-9045-e1616b5b50cc.png)
 
 
 The graph shows number of checkout bikes and trip duration.
@@ -63,6 +66,7 @@ Three different colors represent the classification of gender. Yellow represents
 This visualization shows the breakdown of riders by gender and duration of times showing that most of the users are men.
 4. Trips by Weekday per Hour
 
+![Trips_by_Weekday_Per_hour](https://user-images.githubusercontent.com/91812090/156933859-b5bee94b-3c0a-4b90-9845-ab4ce35fbe02.png)
 
 
 The graph shows number of trips per hour and per weekday.
@@ -71,9 +75,10 @@ The color indicates the number of trips.
 Darker shade color indicates more trips,
 Lighter shade color indicates less trips.
 Form the graph we can see that the busiest times are in the morning hours on weekdays from 6 am and 9 am and evening hours on weekdays between 5 pm and 7 pm.
-On weekends (Saturday and Sunday) the busiest times are in the middle of the day between 10 am and 6 pm.
+On the weekends (Saturday and Sunday) the busiest times are in the middle of the day between 10 am and 6 pm.
 5. Trips by Gender (Weekday per Hour)
 
+![Trips_by_Gender_Weekday_Per_hour](https://user-images.githubusercontent.com/91812090/156934064-eef9a403-f00f-4ddc-b620-5900e39c2301.png)
 
 
 The graph shows number of trips per hour and per weekday.
@@ -89,16 +94,20 @@ In the evening hours on weekdays between 5 pm and 7 pm.
 On weekends (Saturday and Sunday) the busiest times are in the middle of the day between 10 am and 6 pm.
 However, males have significant higher number of trips than female or unknown gender.
 6. User Trips by Gender by Weekday
+![UserTrips_by_Gender_Weekday](https://user-images.githubusercontent.com/91812090/156934203-af7ad67a-f6b7-44cb-a04f-a40bd4c6b33e.png)
+
 
 
 
 The graph shows number of trips by weekday, by user type (subscribers and customers) and by gender.
 The graph has weekdays and user type as rows and gender as columns.
 Amongst subscribers, male has the highest number of the trips especially on Thursdays and Fridays, followed by trips on Monday and Tuesdays.
-Female has similar distribution of trips, with significant lower number of trips than male.
+Females have similar distribution of trips, with significant lower number of trips than male.
 Unknown gender has uniform distribution of the trips throughout the week.
 Looking at the customers data we can see significant less trips throughout all genders with slight increase amongst unknown gender on Saturdays and Sundays.
 7. Top Starting Locations & Top Ending Locations
+![Top_Starting_Locations](https://user-images.githubusercontent.com/91812090/156934238-8fedb1ac-4718-45c2-8fc0-860c7c2a1c03.png)
+![Top_Ending_Locations](https://user-images.githubusercontent.com/91812090/156934245-4e2bd326-31d1-441b-8942-1397d0dcda5c.png)
 
   
 
@@ -129,7 +138,7 @@ The NYC CitiBike story says lot about users and trips which will definitely help
 
 We should concentrate on some areas to make Citibike more popular and efficient for users.
 
-Marketing and Advertising will play crucial role in making Citibike more popular among the crowd.
+Advertising and Marketing will play crucial role in making Citibike more popular among the crowd.
 Bike stands must be easily accessible to the users.
 Bike stands should be positioned in the most crowded (as per the population) areas.
 Offering some good plans according to seasons and festivals So that people will use bikes more often.
